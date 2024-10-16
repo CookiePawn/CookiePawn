@@ -43,7 +43,7 @@ Here are some ideas to get you started:
 
 ## Stats
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img width=59% align="center" src="https://github-readme-stats.vercel.app/api?username=anuraghazra" />
+  <img width=58% align="center" src="https://github-readme-stats.vercel.app/api?username=anuraghazra" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
   <img width=40% align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=anuraghazra&layout=compact&langs_count=8&card_width=320" />
