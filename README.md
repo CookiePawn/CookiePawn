@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Ahn JunChul%&fontSize=60)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Ahn%20JunChul%&fontSize=60)
 
 ## Hi there 👋
 
