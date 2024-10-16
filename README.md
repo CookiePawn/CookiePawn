@@ -43,7 +43,7 @@ Here are some ideas to get you started:
 
 ## Stats
 <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CookiePawn&layout=donut&show_icons=true&count_private=true&exclude_repo=Face-Transfer-Application" width=40% />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CookiePawn&layout=donut&show_icons=true&count_private=true&exclude_repo=Face-Transfer-Application" width=40.2% />
 </a>    
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img src="https://github-readme-stats.vercel.app/api?username=CookiePawn&show_icons=true&count_private=true" width=59% />
