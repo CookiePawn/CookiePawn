@@ -26,5 +26,5 @@ Here are some ideas to get you started:
 
 저는 개발하는 것이 즐겁고 항상 프로젝트를 책임감 있는 자세로 임해요! 
 ---
-![AhnJunChul's GitHub stats](https://github-readme-stats.vercel.app/api?username=CookiePawn&hide=contribs,prs)
+![Ahn JunChul's GitHub stats](https://github-readme-stats.vercel.app/api?username=CookiePawn&hide=contribs,prs)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CookiePawn&size_weight=0.5&count_weight=0.5)
