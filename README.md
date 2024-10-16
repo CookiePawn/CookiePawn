@@ -45,8 +45,8 @@ Here are some ideas to get you started:
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img width=57.5% align="center" src="https://github-readme-stats.vercel.app/api?username=CookiePawn" />
 </a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img width=41.5% align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=CookiePawn&layout=compact&langs_count=8&card_width=320" />
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img width=41.5% align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CookiePawn&layout=donut-vertical8&card_width=320" />
 </a>
 <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=CookiePawn&theme=react-dark&bg_color=fff&hide_border=true&line=58A6FF&color=58A6FF" width=100%/>
