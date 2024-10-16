@@ -20,6 +20,11 @@ Here are some ideas to get you started:
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FCookiePawn%2FCookiePawn%2Fhitcounter&count_bg=%2375E7C3&title_bg=%23CDCDCD&icon=&icon_color=%23E7E7E7&title=HITS&edge_flat=true)](https://hits.seeyoufarm.com)
 
+<details>
+<summary>About Me</summary>
+어쩌구저쩌구 (감추고자 하는 내용)
+</summary>
+
 
 ## 안녕하세요 👋
 저는 앞으로 꾸준히 성장할 개발자입니다.
