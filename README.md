@@ -1,5 +1,5 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:E34C26,10:DA5B0B,30:C6538C,75:3572A5,100:A371F7&height=250&section=header&text=Ahn%20JunChul%&fontSize=60)
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:E34C26,10:DA5B0B,30:C6538C,75:3572A5,100:A371F7&height=40&section=footer&text=&fontSize=0" width="100%"/>
+
 
 
 <!--
@@ -30,3 +30,9 @@ Here are some ideas to get you started:
 ## Stats
 ![Ahn JunChul's GitHub stats](https://github-readme-stats.vercel.app/api?username=CookiePawn&hide=contribs,prs)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CookiePawn&size_weight=0.5&count_weight=0.5)
+
+
+
+
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:E34C26,10:DA5B0B,30:C6538C,75:3572A5,100:A371F7&height=40&section=footer&text=&fontSize=0" width="100%"/>
