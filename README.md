@@ -45,9 +45,22 @@ Here are some ideas to get you started:
 <a href="https://github.com/anuraghazra/github-readme-stats">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CookiePawn&layout=donut&show_icons=true&theme=material-palenight&hide_border=true&bg_color=fff&icon_color=58A6FF&text_color=111&title_color=58A6FF&count_private=true&exclude_repo=Face-Transfer-Application" width=40% />
 </a>    
+<-- 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img src="https://github-readme-stats.vercel.app/api?username=CookiePawn&show_icons=true&theme=material-palenight&hide_border=true&bg_color=fff&icon_color=111&text_color=767676&title_color=58A6FF&count_private=true" width=59% />
 </a>
+-->
+<picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dark"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true" width=59%/>
+</picture>
 <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=CookiePawn&theme=react-dark&bg_color=fff&hide_border=true&line=58A6FF&color=58A6FF" width=100%/>
 </a>
