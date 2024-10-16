@@ -43,10 +43,10 @@ Here are some ideas to get you started:
 
 ## Stats
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img width=57% align="center" src="https://github-readme-stats.vercel.app/api?username=anuraghazra" />
+  <img width=57.5% align="center" src="https://github-readme-stats.vercel.app/api?username=anuraghazra" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img width=42% align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=anuraghazra&layout=compact&langs_count=8&card_width=320" />
+  <img width=41.5% align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=anuraghazra&layout=compact&langs_count=8&card_width=320" />
 </a>
 <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=CookiePawn&theme=react-dark&bg_color=fff&hide_border=true&line=58A6FF&color=58A6FF" width=100%/>
