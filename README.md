@@ -43,10 +43,10 @@ Here are some ideas to get you started:
 
 ## Stats
 <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CookiePawn&layout=donut&show_icons=true&theme=material-palenight&hide_border=true&bg_color=fff&icon_color=58A6FF&text_color=111&title_color=58A6FF&count_private=true&exclude_repo=Face-Transfer-Application" width=40.5% />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CookiePawn&layout=donut&show_icons=true&theme=material-palenight&hide_border=true&bg_color=fff&icon_color=58A6FF&text_color=111&title_color=58A6FF&count_private=true&exclude_repo=Face-Transfer-Application" width=40% />
 </a>    
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img src="https://github-readme-stats.vercel.app/api?username=CookiePawn&show_icons=true&theme=material-palenight&hide_border=true&bg_color=fff&icon_color=111&text_color=111&title_color=58A6FF&count_private=true" width=59.5% />
+  <img src="https://github-readme-stats.vercel.app/api?username=CookiePawn&show_icons=true&theme=material-palenight&hide_border=true&bg_color=fff&icon_color=111&text_color=111&title_color=58A6FF&count_private=true" width=59% />
 </a>
 <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=CookiePawn&theme=react-dark&bg_color=fff&hide_border=true&line=58A6FF&color=111" width=100%/>
