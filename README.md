@@ -1,7 +1,8 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Ahn%20JunChul%&fontSize=60)
 
-## Hi there 👋
-
+## 안녕하세요 👋
+저는 앞으로 꾸준히 성장할 개발자입니다.
+저는 개발하는 것이 즐겁고 항상 프로젝트를 책임감 있는 자세로 임해요! 
 
 <!--
 **CookiePawn/CookiePawn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
