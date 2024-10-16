@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FCookiePawn%2FCookiePawn%2Fhitcounter&count_bg=%2375E7C3&title_bg=%23CDCDCD&icon=&icon_color=%23E7E7E7&title=HITS&edge_flat=true)](https://hits.seeyoufarm.com)
 
-## About Me
+## 👨 About Me
 <span>
   <a href="https://www.instagram.com/anjuncheorl/">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
@@ -32,7 +32,7 @@ Here are some ideas to get you started:
 ![MACOS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white)
 
 
-## 안녕하세요 👋
+## 👋 안녕하세요 
 저는 앞으로 꾸준히 성장할 개발자입니다.
 
 저는 개발하는 것이 즐겁고 항상 프로젝트를 책임감 있는 자세로 임합니다! 
@@ -48,7 +48,7 @@ Here are some ideas to get you started:
 
 
 
-## Stats
+## 👩‍💻 Stats
 <a href="https://github.com/anuraghazra/github-readme-stats">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CookiePawn&layout=donut&show_icons=true&count_private=true&exclude_repo=Face-Transfer-Application" width=40.1% />
 </a>    
