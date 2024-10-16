@@ -25,7 +25,12 @@ Here are some ideas to get you started:
 
 저는 개발하는 것이 즐겁고 항상 프로젝트를 책임감 있는 자세로 임합니다! 
 
-
+## Skills
+<span>
+  <a href="https://www.instagram.com/6unoyunr/">
+    <img src="https://img.shields.io/badge/Instagram-ff69b4?style=plastic&logo=Instagram&logoColor=white"/>
+  </a>
+</span>
 
 
 ## Stats
