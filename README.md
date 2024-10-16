@@ -45,7 +45,7 @@ Here are some ideas to get you started:
 <a href="https://github.com/anuraghazra/github-readme-stats">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CookiePawn&layout=donut&show_icons=true&theme=material-palenight&hide_border=true&bg_color=fff&icon_color=58A6FF&text_color=111&title_color=58A6FF&count_private=true&exclude_repo=Face-Transfer-Application" width=40% />
 </a>    
-<-- 
+<!-- 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img src="https://github-readme-stats.vercel.app/api?username=CookiePawn&show_icons=true&theme=material-palenight&hide_border=true&bg_color=fff&icon_color=111&text_color=767676&title_color=58A6FF&count_private=true" width=59% />
 </a>
