@@ -48,10 +48,11 @@ Here are some ideas to get you started:
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img src="https://github-readme-stats.vercel.app/api?username=CookiePawn&show_icons=true&count_private=true" width=59% />
 </a>
-<a href="https://github.com/ashutosh00710/github-readme-activity-graph" style="border: 1px solid #767676">
+<a href="https://github.com/ashutosh00710/github-readme-activity-graph">
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=CookiePawn&bg_color=white&line=58A6FF&color=58A6FF" width=100%/>
 </a>
 
+---
 
 
 
