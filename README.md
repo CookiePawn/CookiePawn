@@ -45,7 +45,7 @@ Here are some ideas to get you started:
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img width=57.5% align="center" src="https://github-readme-stats.vercel.app/api?username=CookiePawn" />
 </a>
-<a href="https://github.com/anuraghazra/convoychat">
+<a href="https://github.com/anuraghazra/github-readme-stats">
   <img width=41.5% align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CookiePawn&layout=donut-vertical8&card_width=320" />
 </a>
 <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
