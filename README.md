@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 ## About Me
 <span>
   <a href="https://www.instagram.com/anjuncheorl/">
-    <img src="https://img.shields.io/badge/Instagram-ff69b4?style=plastic&logo=Instagram&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
 </span>
 
