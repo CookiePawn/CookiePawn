@@ -49,7 +49,7 @@ Here are some ideas to get you started:
   <img src="https://github-readme-stats.vercel.app/api?username=CookiePawn&show_icons=true&theme=material-palenight&hide_border=true&bg_color=ffffff&icon_color=111&text_color=fff&title_color=58A6FF&count_private=true" width=56% />
 </a>
 <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=CookiePawn&theme=react-dark&bg_color=ffffff&hide_border=true&line=58A6FF&color=111" width=94%/>
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=CookiePawn&theme=react-dark&bg_color=dedede&hide_border=true&line=58A6FF&color=111" width=94%/>
 </a>
 
 
