@@ -46,7 +46,7 @@ Here are some ideas to get you started:
   <img width=57.5% align="center" src="https://github-readme-stats.vercel.app/api?username=CookiePawn" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CookiePawn&layout=donut&show_icons=true&theme=material-palenight&hide_border=true&count_private=true&exclude_repo=Face-Transfer-Application" width=40.5% />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CookiePawn&layout=donut&show_icons=true&hide_border=true&count_private=true&exclude_repo=Face-Transfer-Application" width=40.5% />
 </a>
 <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=CookiePawn&theme=react-dark&bg_color=fff&hide_border=true&line=58A6FF&color=58A6FF" width=100%/>
