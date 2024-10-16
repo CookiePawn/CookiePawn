@@ -49,7 +49,7 @@ Here are some ideas to get you started:
   <img src="https://github-readme-stats.vercel.app/api?username=CookiePawn&show_icons=true&count_private=true" width=59% />
 </a>
 <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=CookiePawn" width=100%/>
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=CookiePawn&theme=react-white" width=100%/>
 </a>
 
 
