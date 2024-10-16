@@ -27,13 +27,17 @@ Here are some ideas to get you started:
   </a>
 </span>
 
+## 💻 OS
+![WINDOWS](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+![MACOS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white)
+
 
 ## 안녕하세요 👋
 저는 앞으로 꾸준히 성장할 개발자입니다.
 
 저는 개발하는 것이 즐겁고 항상 프로젝트를 책임감 있는 자세로 임합니다! 
 
-## Skills
+## 🚀 Skills
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![js](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white)
