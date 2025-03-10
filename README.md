@@ -15,7 +15,7 @@
 </span>
 <span>
   <a href="https://blog.naver.com/cookiepawn">
-    <img src="https://img.shields.io/badge/Blog-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Blog-E4405F?style=for-the-badge&logo=blog&logoColor=white"/>
   </a>
 </span>
 
