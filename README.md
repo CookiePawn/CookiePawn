@@ -8,11 +8,16 @@
 저는 개발하는 것이 즐겁고 항상 프로젝트를 책임감 있는 자세로 임합니다! 
 
 ## 👨 About Me
+<style>
+  span a {
+    text-decoration: none;
+  }
+</style>
 <span>
-  <a href="https://www.instagram.com/anjuncheorl/" style="text-decoration: none;">
+  <a href="https://www.instagram.com/anjuncheorl/">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
-  <a href="https://blog.naver.com/cookiepawn" style="text-decoration: none;">
+  <a href="https://blog.naver.com/cookiepawn">
     <img src="https://img.shields.io/badge/BLOG-03CF5D?style=for-the-badge&logo=naver&logoColor=white"/>
   </a>
 </span>
