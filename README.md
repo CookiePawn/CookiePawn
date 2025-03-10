@@ -9,7 +9,7 @@
 
 ## 👨 About Me
 <span>
-  <a href="https://www.instagram.com/anjuncheorl/">
+  <a href="https://www.instagram.com/anjuncheorl/" style={{ text-decoration: none }}>
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
 </span>
