@@ -1,7 +1,5 @@
 ![slice](https://capsule-render.vercel.app/api?type=slice&color=auto&height=250&text=Hi%20there👋&fontAlign=70&rotate=13&fontAlignY=25&desc=JCAHN's%20GitHub&descAlign=70.&descAlignY=44)
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FCookiePawn%2FCookiePawn%2Fhitcounter&count_bg=%2375E7C3&title_bg=%23CDCDCD&icon=&icon_color=%23E7E7E7&title=HITS&edge_flat=true)](https://hits.seeyoufarm.com)
-
 ## 👋 Hello 
 저는 앞으로 꾸준히 성장할 개발자입니다.
 
