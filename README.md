@@ -24,7 +24,7 @@
 ![CPU](https://img.shields.io/badge/intel-i7_14700k-0071C5?style=for-the-badge&logo=intel&logoColor=white)
 ![CPU](https://img.shields.io/badge/AMD-Ryzen_7_5800X-ED1C24?style=for-the-badge&logo=amd&logoColor=white)
 ![GPU](https://img.shields.io/badge/NVIDIA-RTX3070TI-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
-![MACBOOK](https://img.shields.io/badge/Apple-MacBook_Pro_2020-999999?style=for-the-badge&logo=apple&logoColor=white)
+![MACBOOK](https://img.shields.io/badge/Apple-MacBook_Air_M2-999999?style=for-the-badge&logo=apple&logoColor=white)
 
 
 
